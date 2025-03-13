@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8997898583d02e10a42cf4c6feaad385" label="CEE_FASE_EDUCACAO" max_length="40" name="x_1623578_inovago_cee_fase_educacao" type="collection">
+        <element label="NOME_FASE_EDUCACAO" max_length="40" name="nome_fase_educacao" type="string"/>
+        <element display="true" label="ID_FASE_EDUCACAO" max_length="32" name="id_fase_educacao" type="document_id"/>
+        <element label="NUMR_ORDEM_EXIBICAO" max_length="40" name="numr_ordem_exibicao" type="integer"/>
+        <element label="INDI_CURSO_TECNICO" max_length="40" name="indi_curso_tecnico" type="integer"/>
+        <index name="index">
+            <element name="id_fase_educacao"/>
+        </index>
+    </element>
+</database>

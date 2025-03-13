@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description>Controle de acesso padrão em x_1623578_inovago_cee_coordnc_regional</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1623578_inovago_cee_coordnc_regional</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-13 14:38:21</sys_created_on>
+        <sys_id>0064c10583d02e10a42cf4c6feaad35a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1623578_inovago_cee_coordnc_regional</sys_name>
+        <sys_package display_value="INovaGO Bootcamp" source="x_1623578_inovago">ed1149cd83902e10a42cf4c6feaad3c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="INovaGO Bootcamp">ed1149cd83902e10a42cf4c6feaad3c5</sys_scope>
+        <sys_update_name>sys_security_acl_0064c10583d02e10a42cf4c6feaad35a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-13 14:38:21</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="INovaGO Bootcamp">ed1149cd83902e10a42cf4c6feaad3c5</application>
+        <file_path/>
+        <instance_id>d708578f1b02bd9065324089bd4bcb2d</instance_id>
+        <instance_name>dev195915</instance_name>
+        <name>sys_security_acl_0064c10583d02e10a42cf4c6feaad35a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><decision_type>allow</decision_type><description>Controle de acesso padrão em x_1623578_inovago_cee_coordnc_regional</description><local_or_existing>Local</local_or_existing><name>x_1623578_inovago_cee_coordnc_regional</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-13 14:38:21</sys_created_on><sys_id>0064c10583d02e10a42cf4c6feaad35a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1623578_inovago_cee_coordnc_regional</sys_name><sys_package display_value="INovaGO Bootcamp" source="x_1623578_inovago">ed1149cd83902e10a42cf4c6feaad3c5</sys_package><sys_policy/><sys_scope display_value="INovaGO Bootcamp">ed1149cd83902e10a42cf4c6feaad3c5</sys_scope><sys_update_name>sys_security_acl_0064c10583d02e10a42cf4c6feaad35a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-13 14:38:21</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1119574002</payload_hash>
+        <record_name>x_1623578_inovago_cee_coordnc_regional</record_name>
+        <reverted_from/>
+        <source>9251090183902e10a42cf4c6feaad3af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-13 14:38:21</sys_created_on>
+        <sys_id>0064c10583d02e10a42cf4c6feaad35d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1958ff1282f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-13 14:38:21</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>0464c10502d02e10e0ce5a8070ac2a5c</update_guid>
+        <update_guid_history>0464c10502d02e10e0ce5a8070ac2a5c:-1119574002</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-13 14:42:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>1337085614e4472c9a17118159e41f44</sys_id>
+        <sys_metadata>0064c10583d02e10a42cf4c6feaad35a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1623578_inovago_cee_coordnc_regional</sys_name>
+        <sys_package display_value="INovaGO Bootcamp" source="x_1623578_inovago">ed1149cd83902e10a42cf4c6feaad3c5</sys_package>
+        <sys_parent display_value="">8864c10583d02e10a42cf4c6feaad37b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="INovaGO Bootcamp">ed1149cd83902e10a42cf4c6feaad3c5</sys_scope>
+        <sys_scope_delete display_value="">b92f1a24b0d44cd8ba58ec5e79524d10</sys_scope_delete>
+        <sys_update_name>sys_security_acl_0064c10583d02e10a42cf4c6feaad35a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_0064c10583d02e10a42cf4c6feaad35a">0064c10583d02e10a42cf4c6feaad35d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-13 14:42:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

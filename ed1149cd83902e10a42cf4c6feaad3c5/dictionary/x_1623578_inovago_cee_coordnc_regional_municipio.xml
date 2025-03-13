@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5a36c58583d02e10a42cf4c6feaad304" label="CEE_COORDNC_REGIONAL_MUNICIPIO" max_length="40" name="x_1623578_inovago_cee_coordnc_regional_municipio" type="collection">
+        <element label="CODG_MUNICIPIO" max_length="40" name="codg_municipio" type="integer"/>
+        <element display="true" label="ID_COORDNC_REGIONAL_MUNICIPIO" max_length="32" name="id_coordnc_regional_municipio" reference="x_1623578_inovago_cee_coordnc_regional" type="document_id"/>
+        <index name="index">
+            <element name="id_coordnc_regional_municipio"/>
+        </index>
+    </element>
+</database>

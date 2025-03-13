@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation action="DELETE" element="" label="CEE_COORDNC_REGIONAL" language="pb" table="x_1623578_inovago_cee_coordnc_regional">
+        <sys_documentation action="DELETE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>CEE_COORDNC_REGIONAL</label>
+            <language>pb</language>
+            <name>x_1623578_inovago_cee_coordnc_regional</name>
+            <plural>CEE_COORDNC_REGIONALs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-13 14:38:20</sys_created_on>
+            <sys_id>7754c10583d02e10a42cf4c6feaad321</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CEE_COORDNC_REGIONAL</sys_name>
+            <sys_package display_value="INovaGO Bootcamp" source="x_1623578_inovago">ed1149cd83902e10a42cf4c6feaad3c5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="INovaGO Bootcamp">ed1149cd83902e10a42cf4c6feaad3c5</sys_scope>
+            <sys_update_name>sys_documentation_x_1623578_inovago_cee_coordnc_regional__pb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-13 14:38:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="INovaGO Bootcamp">ed1149cd83902e10a42cf4c6feaad3c5</application>
+        <file_path/>
+        <instance_id>d708578f1b02bd9065324089bd4bcb2d</instance_id>
+        <instance_name>dev195915</instance_name>
+        <name>sys_documentation_x_1623578_inovago_cee_coordnc_regional__pb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="CEE_COORDNC_REGIONAL" language="pb" table="x_1623578_inovago_cee_coordnc_regional"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>CEE_COORDNC_REGIONAL</label><language>pb</language><name>x_1623578_inovago_cee_coordnc_regional</name><plural>CEE_COORDNC_REGIONALs</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-13 14:38:20</sys_created_on><sys_id>7754c10583d02e10a42cf4c6feaad321</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CEE_COORDNC_REGIONAL</sys_name><sys_package display_value="INovaGO Bootcamp" source="x_1623578_inovago">ed1149cd83902e10a42cf4c6feaad3c5</sys_package><sys_policy/><sys_scope display_value="INovaGO Bootcamp">ed1149cd83902e10a42cf4c6feaad3c5</sys_scope><sys_update_name>sys_documentation_x_1623578_inovago_cee_coordnc_regional__pb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-13 14:38:20</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+        <payload_hash>738632331</payload_hash>
+        <record_name>x_1623578_inovago_cee_coordnc_regional</record_name>
+        <reverted_from/>
+        <source>9251090183902e10a42cf4c6feaad3af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-13 14:38:20</sys_created_on>
+        <sys_id>7f54c10583d02e10a42cf4c6feaad330</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1958ff125f90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-13 14:38:20</sys_updated_on>
+        <type>Rótulo do Campo</type>
+        <update_guid>7754c1058ad02e1090b989824bca3f23</update_guid>
+        <update_guid_history>7754c1058ad02e1090b989824bca3f23:738632331</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-13 14:42:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_documentation">sys_documentation</sys_db_object>
+        <sys_id>3d194a15d48a48fb91b0b1dbf615a631</sys_id>
+        <sys_metadata>7754c10583d02e10a42cf4c6feaad321</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CEE_COORDNC_REGIONAL</sys_name>
+        <sys_package display_value="INovaGO Bootcamp" source="x_1623578_inovago">ed1149cd83902e10a42cf4c6feaad3c5</sys_package>
+        <sys_parent display_value="">8864c10583d02e10a42cf4c6feaad37b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="INovaGO Bootcamp">ed1149cd83902e10a42cf4c6feaad3c5</sys_scope>
+        <sys_scope_delete display_value="">b92f1a24b0d44cd8ba58ec5e79524d10</sys_scope_delete>
+        <sys_update_name>sys_documentation_x_1623578_inovago_cee_coordnc_regional__pb</sys_update_name>
+        <sys_update_version display_value="sys_documentation_x_1623578_inovago_cee_coordnc_regional__pb">7f54c10583d02e10a42cf4c6feaad330</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-13 14:42:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

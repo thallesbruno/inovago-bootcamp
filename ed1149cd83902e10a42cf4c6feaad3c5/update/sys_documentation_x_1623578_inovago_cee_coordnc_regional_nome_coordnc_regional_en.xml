@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="nome_coordnc_regional" label="NOME_COORDNC_REGIONAL" language="en" table="x_1623578_inovago_cee_coordnc_regional">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>nome_coordnc_regional</element>
+            <help/>
+            <hint/>
+            <label>NOME_COORDNC_REGIONAL</label>
+            <language>en</language>
+            <name>x_1623578_inovago_cee_coordnc_regional</name>
+            <plural>NOME_COORDNC_REGIONALs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-13 14:46:05</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>NOME_COORDNC_REGIONAL</sys_name>
+            <sys_package display_value="INovaGO Bootcamp" source="x_1623578_inovago">ed1149cd83902e10a42cf4c6feaad3c5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="INovaGO Bootcamp">ed1149cd83902e10a42cf4c6feaad3c5</sys_scope>
+            <sys_update_name>sys_documentation_x_1623578_inovago_cee_coordnc_regional_nome_coordnc_regional_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-13 14:46:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
