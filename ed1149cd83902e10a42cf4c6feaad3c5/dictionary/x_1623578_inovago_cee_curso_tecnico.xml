@@ -2,5 +2,9 @@
     <element db_object_id="07afeddd83102210a42cf4c6feaad3b7" label="CEE_CURSO_TECNICO" max_length="40" name="x_1623578_inovago_cee_curso_tecnico" type="collection">
         <element label="NOME_CURSO_TECNICO" max_length="300" name="nome_curso_tecnico" type="string"/>
         <element display="true" label="INDI_EXPERIMENTAL" max_length="1" name="indi_experimental" type="string"/>
+        <element label="ID_EIXO_TECNICO" max_length="32" name="id_eixo_tecnico" reference="x_1623578_inovago_cee_eixo_tecnico" type="reference"/>
+        <index name="index">
+            <element name="id_eixo_tecnico"/>
+        </index>
     </element>
 </database>

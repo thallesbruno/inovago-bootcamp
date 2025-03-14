@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="ab16795983502210a42cf4c6feaad347" label="CEE_ESPECIALISTA_TECNICO" max_length="40" name="x_1623578_inovago_cee_especialista_tecnico" type="collection">
-        <element label="ID_INSTITUICAO_ENSINO" max_length="32" name="id_instituicao_ensino" reference="x_1623578_inovago_cee_instituicao_ensino" type="reference"/>
+        <element label="ID_INSTITUICAO_ENSINO" mandatory="true" max_length="32" name="id_instituicao_ensino" reference="x_1623578_inovago_cee_instituicao_ensino" type="reference"/>
         <element label="INFO_URL_CURRICULO_LATTES" max_length="250" name="info_url_curriculo_lattes" type="string"/>
         <element label="DESC_AREA_ATUACAO" max_length="500" name="desc_area_atuacao" type="string"/>
-        <element label="DESC_OBSERVACAO" max_length="500" name="desc_observacao" type="string"/>
+        <element label="DESC_OBSERVACAO" mandatory="true" max_length="500" name="desc_observacao" type="string"/>
         <index name="index">
             <element name="id_instituicao_ensino"/>
         </index>

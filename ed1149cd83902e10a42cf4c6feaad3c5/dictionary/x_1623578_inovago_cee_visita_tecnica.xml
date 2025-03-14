@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="27e3469d83902210a42cf4c6feaad31b" label="CEE_VISITA_TECNICA" max_length="40" name="x_1623578_inovago_cee_visita_tecnica" type="collection">
+        <element label="INFO_URL_RELATORIO" mandatory="true" max_length="250" name="info_url_relatorio" type="string"/>
+        <element label="NUMR_PROCESSO_SEI" mandatory="true" max_length="15" name="numr_processo_sei" type="integer"/>
+        <element label="NUMR_ANO_PORTARIA" max_length="4" name="numr_ano_portaria" type="integer"/>
+        <element label="NUMR_PORTARIA" mandatory="true" max_length="6" name="numr_portaria" type="integer"/>
+        <element label="ID_ESPECIALISTA_TECNICO" max_length="32" name="id_especialista_tecnico" reference="x_1623578_inovago_cee_especialista_tecnico" type="reference"/>
+        <element display="true" label="DATA_FIM_VISITA" max_length="40" name="data_fim_visita" type="glide_date"/>
+        <element label="DESC_CURSO_VERIFICADO" max_length="500" name="desc_curso_verificado" type="string"/>
+        <element label="DATA_INICIO_VISITA" max_length="40" name="data_inicio_visita" type="glide_date"/>
+        <element label="DESC_OBSERVACAO" mandatory="true" max_length="500" name="desc_observacao" type="string"/>
+        <element label="ID_INSTITUICAO_ENSINO" max_length="32" name="id_instituicao_ensino" reference="x_1623578_inovago_cee_instituicao_ensino" type="reference"/>
+        <index name="index">
+            <element name="id_especialista_tecnico"/>
+        </index>
+        <index name="index2">
+            <element name="id_instituicao_ensino"/>
+        </index>
+    </element>
+</database>
