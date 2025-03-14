@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2582311583502210a42cf4c6feaad357" label="CEE_INSTITUICAO_ENSINO" max_length="40" name="x_1623578_inovago_cee_instituicao_ensino" type="collection">
+        <element label="NOME_LOGRADOURO" max_length="60" name="nome_logradouro" type="string"/>
+        <element display="true" label="STAT_INSTITUICAO_ENSINO" max_length="1" name="stat_instituicao_ensino" type="integer"/>
+        <element label="CODG_MUNICIPIO_ENDERECO" max_length="9" name="codg_municipio_endereco" type="integer"/>
+        <element label="NUMR_TELEFONE" max_length="60" name="numr_telefone" type="string"/>
+        <element label="NOME_BAIRRO" max_length="60" name="nome_bairro" type="string"/>
+        <element label="NOME_INSTITUICAO_ENSINO" max_length="300" name="nome_instituicao_ensino" type="string"/>
+        <element label="DESC_COMPLEMENTO_ENDERECO" max_length="80" name="desc_complemento_endereco" type="string"/>
+        <element label="NUMR_QUADRA_ENDERECO" max_length="10" name="numr_quadra_endereco" type="string"/>
+        <element label="NUMR_LOTE_ENDERECO" max_length="10" name="numr_lote_endereco" type="string"/>
+        <element label="CODG_CEP_ENDERECO" max_length="8" name="codg_cep_endereco" type="integer"/>
+        <element label="NUMR_ENDERECO" max_length="10" name="numr_endereco" type="string"/>
+        <element label="TIPO_INSTITUICAO_ENSINO" max_length="1" name="tipo_instituicao_ensino" type="string"/>
+        <element label="CODG_INEP" max_length="8" name="codg_inep" type="integer"/>
+        <element label="DESC_EMAIL" max_length="100" name="desc_email" type="string"/>
+    </element>
+</database>

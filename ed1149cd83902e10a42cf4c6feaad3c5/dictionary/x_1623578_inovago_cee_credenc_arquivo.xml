@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="df05311583502210a42cf4c6feaad3b1" label="CEE_CREDENC_ARQUIVO" max_length="40" name="x_1623578_inovago_cee_credenc_arquivo" type="collection">
+        <element label="INFO_URL_ARQUIVO_AUTORIZACAO" max_length="600" name="info_url_arquivo_autorizacao" type="string"/>
+        <element label="ID_CREDENC" max_length="32" name="id_credenc" reference="x_1623578_inovago_cee_credenciamento" type="reference"/>
+        <index name="index">
+            <element name="id_credenc"/>
+        </index>
+    </element>
+</database>

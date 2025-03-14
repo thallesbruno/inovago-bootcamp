@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="30c5458583d02e10a42cf4c6feaad382" label="CEE_COORDNC_REGIONAL" max_length="40" name="x_1623578_inovago_cee_coordnc_regional" type="collection">
-        <element label="ID_COORDNC_REGIONAL" max_length="32" name="id_coordnc_regional" type="document_id"/>
         <element display="true" label="NOME_COORDNC_REGIONAL" max_length="150" name="nome_coordnc_regional" type="string"/>
-        <index name="index">
-            <element name="id_coordnc_regional"/>
-        </index>
     </element>
 </database>

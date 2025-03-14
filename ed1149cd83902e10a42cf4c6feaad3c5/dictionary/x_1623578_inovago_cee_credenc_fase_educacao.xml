@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f7ec619d83102210a42cf4c6feaad39d" label="CEE_CREDENC_FASE_EDUCACAO" max_length="40" name="x_1623578_inovago_cee_credenc_fase_educacao" type="collection">
+        <element label="ID_CREDENC_FASE_EDUCACAO" max_length="32" name="id_credenc_fase_educacao" reference="x_1623578_inovago_cee_fase_educacao" type="reference"/>
+        <index name="index">
+            <element name="id_credenc_fase_educacao"/>
+        </index>
+    </element>
+</database>

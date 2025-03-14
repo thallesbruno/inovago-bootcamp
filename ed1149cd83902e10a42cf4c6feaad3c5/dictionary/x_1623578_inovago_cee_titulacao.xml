@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0947b11d83502210a42cf4c6feaad340" label="CEE_TITULACAO" max_length="40" name="x_1623578_inovago_cee_titulacao" type="collection">
+        <element label="DESC_TITULACAO" max_length="500" name="desc_titulacao" type="string"/>
+        <element label="INDI_GRAU_INSTRUCAO" max_length="2" name="indi_grau_instrucao" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="07afeddd83102210a42cf4c6feaad3b7" label="CEE_CURSO_TECNICO" max_length="40" name="x_1623578_inovago_cee_curso_tecnico" type="collection">
+        <element label="NOME_CURSO_TECNICO" max_length="300" name="nome_curso_tecnico" type="string"/>
+        <element display="true" label="INDI_EXPERIMENTAL" max_length="1" name="indi_experimental" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8ebd2d5d83102210a42cf4c6feaad350" label="CEE_CREDENCIAMENTO" max_length="40" name="x_1623578_inovago_cee_credenciamento" type="collection">
+        <element label="INDI_GRAU_ENSINO_SUPERIOR" max_length="1" name="indi_grau_ensino_superior" type="string"/>
+        <element label="NUMR_PROCESSO_SEI" max_length="15" name="numr_processo_sei" type="integer"/>
+        <element label="NUMR_PARECER" max_length="5" name="numr_parecer" type="integer"/>
+        <element label="NUMR_ANO_PARECER" max_length="4" name="numr_ano_parecer" type="integer"/>
+        <element label="DATA_FIM_VIGENCIA_AUTORIZACAO" max_length="40" name="data_fim_vigencia_autorizacao" type="glide_date"/>
+        <element label="INDI_NIVEL_ENSINO" max_length="1" name="indi_nivel_ensino" type="string"/>
+        <element label="NUMR_ANO_RESOLUCAO" max_length="4" name="numr_ano_resolucao" type="integer"/>
+        <element display="true" label="INFO_OBSERVACAO" max_length="1024" name="info_observacao" type="string"/>
+        <element label="NUMR_RESOLUCAO" max_length="5" name="numr_resolucao" type="integer"/>
+        <element label="INDI_MODALIDADE_ENSINO" max_length="1" name="indi_modalidade_ensino" type="string"/>
+        <element label="DESC_CURSO" max_length="250" name="desc_curso" type="string"/>
+    </element>
+</database>

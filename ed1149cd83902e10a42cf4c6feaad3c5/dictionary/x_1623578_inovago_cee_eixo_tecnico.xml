@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ab70f9d183502210a42cf4c6feaad337" label="CEE_EIXO_TECNICO" max_length="40" name="x_1623578_inovago_cee_eixo_tecnico" type="collection">
+        <element display="true" label="NOME_EIXO_TECNICO" max_length="300" name="nome_eixo_tecnico" type="string"/>
+    </element>
+</database>

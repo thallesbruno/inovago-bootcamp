@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="12c6b5d983502210a42cf4c6feaad32f" label="CEE_TITULACAO_ESPECIALISTA" max_length="40" name="x_1623578_inovago_cee_titulacao_especialista" type="collection">
+        <element label="ID_ESPECIALISTA_TECNICO" max_length="32" name="id_especialista_tecnico" reference="x_1623578_inovago_cee_especialista_tecnico" type="reference"/>
+        <element label="ID_TITULACAO" max_length="32" name="id_titulacao" reference="x_1623578_inovago_cee_titulacao" type="reference"/>
+        <index name="index">
+            <element name="id_especialista_tecnico"/>
+        </index>
+        <index name="index2">
+            <element name="id_titulacao"/>
+        </index>
+    </element>
+</database>

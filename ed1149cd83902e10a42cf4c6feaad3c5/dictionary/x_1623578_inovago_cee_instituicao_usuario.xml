@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7664351983502210a42cf4c6feaad357" label="CEE_INSTITUICAO_USUARIO" max_length="40" name="x_1623578_inovago_cee_instituicao_usuario" type="collection">
+        <element label="NUMR_CPF_USUARIO" max_length="11" name="numr_cpf_usuario" type="string"/>
+        <element display="true" label="ID_INSTITUICAO_ENSINO" max_length="32" name="id_instituicao_ensino" reference="x_1623578_inovago_cee_instituicao_ensino" type="reference"/>
+        <index name="index">
+            <element name="id_instituicao_ensino"/>
+        </index>
+    </element>
+</database>
