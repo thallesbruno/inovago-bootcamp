@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="data_fim_visita" label="DATA_FIM_VISITA" language="en" table="x_1623578_inovago_cee_visita_tecnica">
+    <sys_documentation element="data_fim_visita" label="Data de Fim da Visita Técnica" language="en" table="x_1623578_inovago_cee_visita_tecnica">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>data_fim_visita</element>
             <help/>
             <hint/>
-            <label>DATA_FIM_VISITA</label>
+            <label>Data de Fim da Visita Técnica</label>
             <language>en</language>
             <name>x_1623578_inovago_cee_visita_tecnica</name>
-            <plural>DATA_FIM_VISITAs</plural>
+            <plural>Data de Fim da Visita Técnicas</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2025-03-14 13:58:57</sys_created_on>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>DATA_FIM_VISITA</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Data de Fim da Visita Técnica</sys_name>
             <sys_package display_value="INovaGO Bootcamp" source="x_1623578_inovago">ed1149cd83902e10a42cf4c6feaad3c5</sys_package>
             <sys_policy/>
             <sys_scope display_value="INovaGO Bootcamp">ed1149cd83902e10a42cf4c6feaad3c5</sys_scope>
             <sys_update_name>sys_documentation_x_1623578_inovago_cee_visita_tecnica_data_fim_visita_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-14 13:58:57</sys_updated_on>
+            <sys_updated_on>2025-03-14 14:45:10</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
